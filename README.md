@@ -7,7 +7,7 @@ This project is part of the Google Professional Data Analytics Certificate and d
 ## Project Structure
 - [Kaggle Dataset](https://www.kaggle.com/datasets/arashnic/fitbit): The dataset used for this project is available on Kaggle.
   
-- [notebooks/](https://github.com/iamganeshg18/food_marketing_campaign_analysis/blob/main/notebooks/food_marketing_analysis.ipynb): Includes the Jupyter notebook (food_marketing_analysis.ipynb) where the analysis is performed.
+- [notebooks/](https://github.com/iamganeshg18/Bellabeat-Smart-Device-Data-Analysis/blob/main/Fitbit_users_analysis.ipynb): Includes the Jupyter notebook (Fitbit_users_analysis.ipynb) where the analysis is performed.
 
 ## Analysis and Findings
 The Jupyter Notebook includes:
